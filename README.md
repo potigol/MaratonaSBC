@@ -17,3 +17,14 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **J**ogos olímpicos (Muito Difícil 0,5%)
    - [ ] **K**it de encolhimento de polígonos (Muito Difícil 0,1%)
    - [ ] **L**adrilhos (Médio 31%)
+
+
+```potigol
+a = leia_texto
+b = a.selecione(c => "aeiou".contém(c))
+se b == b.inverta então
+  escreva "S"
+senão
+  escreva "N"
+fim 
+```
