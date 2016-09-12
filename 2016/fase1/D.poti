@@ -1,0 +1,16 @@
+in = leia_inteiros(" ")
+a, b, c, d = in[1], in[2], in[3], in[4]
+var achou := -1
+var x, y := 0
+var i := 1
+enquanto x <= y faça
+  x := a * i
+  y := c div x
+  se (-1 == achou) e (x mod b <> 0) e (d mod x <> 0) então
+    achou := x
+  senãose (y < achou ou -1 == achou) e (y mod b <> 0) e (d mod y <> 0) então
+    achou := y
+  fim
+  i := i + 1
+fim
+escreva achou
