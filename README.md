@@ -21,9 +21,9 @@ usando a linguagem [Potigol](http://potigol.github.io).
 
 ```python
 # Questão H - 2016
-a = leia_texto
-b = a.selecione(c => "aeiou".contém(c))
-se b == b.inverta então
+entrada = leia_texto
+só_vogais = entrada.selecione(letra => "aeiou".contém(letra))
+se só_vogais == só_vogais.inverta então
   escreva "S"
 senão
   escreva "N"
