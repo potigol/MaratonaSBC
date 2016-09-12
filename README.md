@@ -19,7 +19,8 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **L**adrilhos (Médio 31%)
 
 
-```potigol
+```python
+# Questão H - 2016
 a = leia_texto
 b = a.selecione(c => "aeiou".contém(c))
 se b == b.inverta então
