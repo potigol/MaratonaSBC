@@ -18,6 +18,18 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **K**it de encolhimento de polígonos (Muito Difícil 0,1%)
    - [ ] **L**adrilhos (Médio 31%)
 
+ - [Segunda Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
+   - [X] [**A**ssigning Teams](2016/fase2/A.poti) (Fácil 100%)
+   - [ ] **B**ack to the Future (Médio 26%)
+   - [ ] **C**
+   - [ ] **D**
+   - [ ] **E**
+   - [ ] **F**
+   - [ ] **G**
+   - [ ] **H**
+   - [ ] **I**
+   - [ ] **J**
+   - [ ] **K**
 
 ```python
 # Questão H - 2016
