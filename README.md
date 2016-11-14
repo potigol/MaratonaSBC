@@ -21,15 +21,15 @@ usando a linguagem [Potigol](http://potigol.github.io).
  - [Segunda Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
    - [X] [**A**ssigning Teams](2016/fase2/A.poti) (Fácil 100%)
    - [ ] **B**ack to the Future (Médio 26%)
-   - [ ] **C**
-   - [ ] **D**
-   - [ ] **E**
-   - [ ] **F**
-   - [ ] **G**
-   - [ ] **H**
-   - [ ] **I**
-   - [ ] **J**
-   - [ ] **K**
+   - [ ] **C**ounting Self-Rotating Subsets (3,4%)
+   - [ ] **D**ating On-Line (79%)
+   - [ ] **E**mission Spectrum (???)
+   - [ ] **F**arm robot (Fácil 100%)
+   - [ ] **G**ame of Matchings (5,2%)
+   - [ ] **H**otel Rewards (24%)
+   - [ ] **I**nternet Trouble (6,9%)
+   - [ ] **J**ust in Time (55%)
+   - [ ] **K**ill the Werewolf (41%)
 
 ```python
 # Questão H - 2016
