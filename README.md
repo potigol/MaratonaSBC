@@ -29,7 +29,7 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **H**otel Rewards (Difícil 24%)
    - [ ] **I**nternet Trouble (Muito Difícil 6,9%)
    - [ ] **J**ust in Time (Médio 55%)
-   - [ ] **K**ill the Werewolf (Difícil 41%)
+   - [ ] **K**ill the Werewolf (Médio 41%)
 
 ```python
 # Questão H - 2016
