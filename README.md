@@ -3,6 +3,8 @@
 Solução das questões da Maratona de Programação promovida pela Sociedade Brasileira de Computação (SBC)
 usando a linguagem [Potigol](http://potigol.github.io).
 
+:balloon: Questões aceitas no [URI Online Judge](https://www.urionlinejudge.com.br) usando o script [Potigol2Scala](https://potigol.github.io/potigol2scala/)
+
 ## 2016
  - [Primeira Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
    - [X] [**A**ndando no tempo](2016/fase1/A.poti) (Fácil 99%) :balloon:
