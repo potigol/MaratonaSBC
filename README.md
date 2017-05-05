@@ -23,7 +23,7 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **L**adrilhos (Médio 31%)
 
  - [Segunda Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
-   - [X] [**A**ssigning Teams](2016/fase2/A.poti) (Fácil 100%)
+   - [X] [**A**ssigning Teams](2016/fase2/A.poti) (Fácil 100%) :balloon:
    - [ ] **B**ack to the Future (Difícil 26%)
    - [ ] **C**ounting Self-Rotating Subsets (Muito Difícil 3,4%)
    - [ ] **D**ating On-Line (Médio 79%)
