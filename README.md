@@ -5,6 +5,8 @@ usando a linguagem [Potigol](http://potigol.github.io).
 
 :balloon: Questões aceitas no [URI Online Judge](https://www.urionlinejudge.com.br) usando o script [Potigol2Scala](https://potigol.github.io/potigol2scala/)
 
+![Questão 1](2016h.png)
+
 ## 2016
  - [Primeira Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
    - [X] [**A**ndando no tempo](2016/fase1/A.poti) (Fácil 99%) :balloon:
@@ -33,13 +35,3 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **J**ust in Time (Médio 55%)
    - [ ] **K**ill the Werewolf (Médio 41%)
 
-```python
-# Questão H - 2016
-entrada = leia_texto
-só_vogais = entrada.selecione(letra => "aeiou".contém(letra))
-se só_vogais == só_vogais.inverta então
-  escreva "S"
-senão
-  escreva "N"
-fim 
-```
