@@ -7,6 +7,23 @@ usando a linguagem [Potigol](http://potigol.github.io).
 
 ![Questão 1](2016h.png)
 
+## 2017
+ - [Primeira Fase](http://maratona.ime.usp.br/vagas17.html): [Prova](http://maratona.ime.usp.br/prim-fase17/maratona.pdf)
+   - [ ] **A**cordes intergaláticos
+   - [ ] **B**rincadeira
+   - [ ] **C**igarras periódicas
+   - [ ] **D**espojados
+   - [ ] **E**scala Musical
+   - [X] [**F**ase](2017/fase1/F.poti)
+   - [ ] **G**inástica
+   - [ ] **H**ipercampo
+   - [ ] **I**mposto Real
+   - [X] [**J**ogo de Boca](2017/fase1/J.poti)
+   - [ ] **K**-ésimo
+   - [ ] **L**aboratório de biotecnologia
+   - [X] [**M**áquina de café](2017/fase1/M.poti)
+
+
 ## 2016
  - [Primeira Fase](http://maratona.ime.usp.br/vagas16.html): [Prova](http://maratona.ime.usp.br/prim-fase16/maratona.pdf)
    - [X] [**A**ndando no tempo](2016/fase1/A.poti) (Fácil 99%) :balloon:
