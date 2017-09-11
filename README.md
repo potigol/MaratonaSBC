@@ -9,19 +9,19 @@ usando a linguagem [Potigol](http://potigol.github.io).
 
 ## 2017
  - [Primeira Fase](http://maratona.ime.usp.br/vagas17.html): [Prova](http://maratona.ime.usp.br/prim-fase17/maratona.pdf)
-   - [ ] **A**cordes intergaláticos
-   - [ ] **B**rincadeira
-   - [ ] **C**igarras periódicas
-   - [ ] **D**espojados
-   - [ ] **E**scala Musical
-   - [X] [**F**ase](2017/fase1/F.poti)
-   - [ ] **G**inástica
-   - [ ] **H**ipercampo
-   - [ ] **I**mposto Real
-   - [X] [**J**ogo de Boca](2017/fase1/J.poti)
-   - [ ] **K**-ésimo
-   - [ ] **L**aboratório de biotecnologia
-   - [X] [**M**áquina de café](2017/fase1/M.poti)
+   - [ ] **A**cordes intergaláticos (Difícil 5%)
+   - [ ] **B**rincadeira (Muito Difícil 2%)
+   - [ ] **C**igarras periódicas (Difícil 13%)
+   - [ ] **D**espojados (Médio 18%)
+   - [ ] **E**scala Musical (Médio 23%)
+   - [X] [**F**ase](2017/fase1/F.poti) (Fácil 85%)
+   - [ ] **G**inástica (Médio 16%)
+   - [ ] **H**ipercampo (Difícil 8%)
+   - [ ] **I**mposto Real (Difícil 11%)
+   - [X] [**J**ogo de Boca](2017/fase1/J.poti) (Fácil 50%)
+   - [ ] **K**-ésimo (Muito Difícil 1%)
+   - [ ] **L**aboratório de biotecnologia (Muito Difícil 1%)
+   - [X] [**M**áquina de café](2017/fase1/M.poti) (Fácil 89%)
 
 
 ## 2016
