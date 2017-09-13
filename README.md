@@ -14,14 +14,14 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **C**igarras periódicas (Difícil 13%)
    - [ ] **D**espojados (Médio 18%)
    - [ ] **E**scala Musical (Médio 23%)
-   - [X] [**F**ase](2017/fase1/F.poti) (Fácil 85%)
+   - [X] [**F**ase](2017/fase1/F.poti) (Fácil 85%) :balloon:
    - [ ] **G**inástica (Médio 16%)
    - [ ] **H**ipercampo (Difícil 8%)
    - [ ] **I**mposto Real (Difícil 11%)
-   - [X] [**J**ogo de Boca](2017/fase1/J.poti) (Fácil 50%)
+   - [X] [**J**ogo de Boca](2017/fase1/J.poti) (Fácil 50%) :balloon:
    - [ ] **K**-ésimo (Muito Difícil 1%)
    - [ ] **L**aboratório de biotecnologia (Muito Difícil 1%)
-   - [X] [**M**áquina de café](2017/fase1/M.poti) (Fácil 89%)
+   - [X] [**M**áquina de café](2017/fase1/M.poti) (Fácil 89%) :balloon:
 
 
 ## 2016
