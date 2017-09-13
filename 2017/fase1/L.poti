@@ -1,0 +1,12 @@
+# Solução ineficiente (n²)
+s = leia_texto
+pesos = Lista.mutável(26 * s.tamanho, 0)
+var cont := 0
+para tam de 1 até s.tamanho,
+     inicio de 0 até s.tamanho - tam faça
+  seq = s.drop(inicio).take(tam)
+  peso = (para c em seq gere c - 96 fim).injete(0)(_ + _)
+  pesos[peso] := 1
+fim
+
+escreva pesos.injete(0)(_ + _)
