@@ -12,7 +12,7 @@ usando a linguagem [Potigol](http://potigol.github.io).
    - [ ] **A**cordes intergaláticos (Difícil 5%)
    - [ ] **B**rincadeira (Muito Difícil 2%)
    - [ ] **C**igarras periódicas (Difícil 13%)
-   - [ ] **D**espojados (Médio 18%)
+   - [X] [**D**espojados](2017/fase1/D.poti) (Médio 18%) :balloon:
    - [ ] **E**scala Musical (Médio 23%)
    - [X] [**F**ase](2017/fase1/F.poti) (Fácil 85%) :balloon:
    - [ ] **G**inástica (Médio 16%)
