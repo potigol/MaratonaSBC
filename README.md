@@ -1,3 +1,5 @@
+# Projeto desativado, veja https://github.com/potigol/URI-Potigol
+
 # Maratona de Programação da SBC
 
 Solução das questões da Maratona de Programação promovida pela Sociedade Brasileira de Computação (SBC)
