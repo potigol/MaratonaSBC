@@ -1,4 +1,5 @@
-# Projeto desativado, veja https://github.com/potigol/URI-Potigol
+# Projeto desativado
+## Veja https://github.com/potigol/URI-Potigol/blob/master/maratona.md
 
 # Maratona de Programação da SBC
 
